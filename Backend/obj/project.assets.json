@@ -3075,11 +3075,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nicor\\OneDrive\\Escritorio\\MalvinasArgentinas-Personal-App\\Backend\\MalvinasArgentinas-Personal-App.csproj",
+      "projectUniqueName": "C:\\Users\\nicor\\OneDrive\\Documentos\\GitHub\\CSharp-ReactTs-UserPersonal-CRUD\\Backend\\MalvinasArgentinas-Personal-App.csproj",
       "projectName": "MalvinasArgentinas-Personal-App",
-      "projectPath": "C:\\Users\\nicor\\OneDrive\\Escritorio\\MalvinasArgentinas-Personal-App\\Backend\\MalvinasArgentinas-Personal-App.csproj",
+      "projectPath": "C:\\Users\\nicor\\OneDrive\\Documentos\\GitHub\\CSharp-ReactTs-UserPersonal-CRUD\\Backend\\MalvinasArgentinas-Personal-App.csproj",
       "packagesPath": "C:\\Users\\nicor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nicor\\OneDrive\\Escritorio\\MalvinasArgentinas-Personal-App\\Backend\\obj\\",
+      "outputPath": "C:\\Users\\nicor\\OneDrive\\Documentos\\GitHub\\CSharp-ReactTs-UserPersonal-CRUD\\Backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nicor\\AppData\\Roaming\\NuGet\\NuGet.Config"

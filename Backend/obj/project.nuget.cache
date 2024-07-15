@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G70XckmINIU=",
+  "dgSpecHash": "m0pneML8mhk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\nicor\\OneDrive\\Escritorio\\MalvinasArgentinas-Personal-App\\Backend\\MalvinasArgentinas-Personal-App.csproj",
+  "projectFilePath": "C:\\Users\\nicor\\OneDrive\\Documentos\\GitHub\\CSharp-ReactTs-UserPersonal-CRUD\\Backend\\MalvinasArgentinas-Personal-App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nicor\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\nicor\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

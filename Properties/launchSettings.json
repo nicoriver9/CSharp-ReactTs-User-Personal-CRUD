@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "MalvinasArgentinas_Personal_App": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7204",
+      "launchBrowser": false
+    }
+  }
+}

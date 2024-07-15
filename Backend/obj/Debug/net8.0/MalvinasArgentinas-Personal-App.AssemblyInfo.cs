@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MalvinasArgentinas-Personal-App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba27998f39dd1677482d3c758a3ef523d666e880")]
 [assembly: System.Reflection.AssemblyProductAttribute("MalvinasArgentinas-Personal-App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MalvinasArgentinas-Personal-App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
